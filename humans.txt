@@ -2,8 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+Fer
+:    
+:i
     <name> -- <role> -- <twitter>
+:e
     Fernando Fuly
 
 # THANKS
